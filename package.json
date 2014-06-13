@@ -1,0 +1,29 @@
+{
+  "name": "passphrase",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ripter/passphrase.git"
+  },
+  "author": "Chris Richards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ripter/passphrase/issues"
+  },
+  "homepage": "https://github.com/ripter/passphrase",
+  "devDependencies": {
+    "bower": "^1.3.3",
+    "browserify": "^4.1.6",
+    "jshint": "^2.5.1"
+  },
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "bootstrap": "0.0.2",
+    "express": "^4.3.2"
+  }
+}
